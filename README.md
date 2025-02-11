@@ -20,6 +20,26 @@ License
 
 Questions
 
+## Installation
+
+To install and run the application on your local machine, follow these steps:
+
+Clone the Repository:
+
+git clone https://github.com/RaaBaaJaa718/your-repo-name.git
+Navigate to the Project Directory:
+
+cd your-repo-name
+Install Dependencies: Make sure you have Node.jsand npm installed. Then run:
+
+npm install
+Build the Project: Compile the TypeScript files to JavaScript:
+
+npm run build
+Run the Application: Start the application using:
+
+npm run start
+
 ## Usage
 
 To use the application, follow these steps:
