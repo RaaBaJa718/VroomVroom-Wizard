@@ -6,6 +6,10 @@
 
 This project is a command-line interface (CLI) application that allows users to create and manage different types of vehicles, including cars, trucks, and motorbikes. Users can perform various actions with the selected vehicles, such as accelerating, decelerating, turning, and more.
 
+## How to Video
+
+[Watch the How-to Video](https://drive.google.com/file/d/17StmdBeqgPr9pwyMQtMlX1cYZ4GNFf7k/view)
+
 ## Table of Contents
 
 Description
